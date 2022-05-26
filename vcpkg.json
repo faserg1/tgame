@@ -1,0 +1,10 @@
+{
+  "name": "adb",
+  "version-string": "0.0.4",
+  "dependencies": [
+    "bext-sml",
+    "sdl2",
+    "sdl2-image"
+  ]
+}
+
